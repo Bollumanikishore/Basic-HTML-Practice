@@ -6,6 +6,7 @@ body{
 .navbar {
     background-color:#064e3b;
     border-bottom-left-radius: 1rem;
+    margin: 0%;
 }
 .navbar .list-item-inline{
     display:inline;
@@ -70,5 +71,20 @@ background-color: whitesmoke;
     color:white;
 }
 .footer ul{
+    padding: 0.5rem;
+}
+.links{
+    /* max-width: 140px;
+    margin: 1rem;
+    padding: 0.6rem 1.2rem;
+    border-radius: 2rem;
+    border: 1px #064e3b;
+    color: #064e3b;
+    text-decoration: none;
+    box-sizing: border-box; */
+    text-decoration: none;
+    background-color:#064e3b;
+    border-radius: 1rem;
+    color:white;
     padding: 0.5rem;
 }
