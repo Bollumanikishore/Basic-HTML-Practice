@@ -1,7 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
-:root{
-    
-}
 body{
     font-family: 'Montserrat', Courier, monospace;
     font-size: 20px;
@@ -30,20 +27,48 @@ body{
     padding:2rem;
 }
 .head .img{
-    max-width: 500px;
+    max-width: 800px;
     display:block;
     margin:auto;
 }
 .head .img-heading{
     text-align:center;
 }
-.section h2,p{
+.section {
+    padding:1rem;
 text-align:center;
+background-color: whitesmoke;
 }
-.section .list-item {
+.section1{
+    text-align:center;
+}
+.section1 .list-item {
     text-decoration: none;
     padding:0.1rem 1rem;
     border-radius: 1rem;
     color:white;
     background-color: blueviolet;
+}
+
+.footer{
+    background-color:#064e3b;
+    text-align:center;
+    border-top-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+.footer .footer-ul-inline{
+    display:inline;
+
+}
+.footer .footer-ul-inline a{
+    text-decoration: none;
+    color:white;
+    padding: 1rem;
+}
+.footer h2{
+    padding: 1rem;
+    color:white;
+}
+.footer ul{
+    padding: 0.5rem;
 }
