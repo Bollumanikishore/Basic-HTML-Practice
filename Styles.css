@@ -25,7 +25,7 @@ body{
     color:white;
 }
 .head{
-    padding:2rem;
+    padding:1.2rem;
 }
 .head .img{
     max-width: 800px;
@@ -36,17 +36,19 @@ body{
     text-align:center;
 }
 .section {
-    padding:1rem;
+    padding-bottom:1.5rem;
+    padding-top: 0.3rem;
 text-align:center;
 background-color: whitesmoke;
 }
 .section1{
     text-align:center;
-
+    padding-bottom: 1.5rem;
+    padding-top:0.3rem;
 }
 .section1 .list-item {
     text-decoration: none;
-    padding:0.3rem 1rem;
+    padding:1rem 1rem;
     border-radius: 1rem;
     color:white;
     background-color: blueviolet;
