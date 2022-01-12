@@ -48,10 +48,10 @@ background-color: whitesmoke;
 }
 .section1 .list-item {
     text-decoration: none;
-    padding:1rem 1rem;
+    padding:0.5rem 1rem;
     border-radius: 1rem;
     color:white;
-    background-color: blueviolet;
+    background-color: #064e3b; 
 }
 
 .footer{
