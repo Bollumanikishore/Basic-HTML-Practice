@@ -4,7 +4,7 @@ body{
     font-size: 20px;
 }
 .navbar {
-    background-color:#064e3b;
+    background-color:black;
     border-bottom-left-radius: 1rem;
     margin: 0%;
 }
@@ -51,11 +51,11 @@ background-color: whitesmoke;
     padding:0.5rem 1rem;
     border-radius: 1rem;
     color:white;
-    background-color: #064e3b; 
+    background-color: black; 
 }
 
 .footer{
-    background-color:#064e3b;
+    background-color:black;
     text-align:center;
     border-top-right-radius: 1rem;
     border-bottom-left-radius: 1rem;
@@ -81,14 +81,14 @@ background-color: whitesmoke;
     margin: 1rem;
     padding: 0.3rem 1.2rem;
     border-radius: 1rem;
-    border: 1px solid #064e3b;
-    color: #064e3b;
+    border: 1px solid black;
+    color: black;
     text-decoration: none;
 }
 .links{
     box-sizing: border-box; 
     text-decoration: none;
-    background-color:#064e3b;
+    background-color:black;
     border-radius: 1rem;
     color:white;
     padding:0.3rem 1.2rem;
